@@ -1,6 +1,6 @@
 <h2>Welcome to Yumugo Nft's World</h2>
 
-<img src="https://github.com/YumugoNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
+<img src="https://github.com/opraksNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
 
 - <h3><u><b>What Is Yumugo Nft's ?</b></u></h3>
 - <b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of.
