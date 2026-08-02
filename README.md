@@ -31,8 +31,8 @@
 - <b>Market #2:</b> <a href="https://web3.okx.com/ul/2DBRLUm" target="_blank"><u><font color="blue"> Okx Nft Market </font></u></a>
 - <b>Social Media:</b> <a href="https://discord.gg/YxKBv2ChV" target="_blank"><u><font color="blue"> Discord </font></u></a>
 
-<p><b><i>owned by.opraks;</i></b> <i>44/ Istanbul - Türkiye</i>
-<b><i>profession:</i></b> <i>Architectural Restoration Technician</i></p>
+<b><i>Owned by.opraks;</i></b> <i>44/ Istanbul - Türkiye</i>
+<b><i>Profession:</i></b> <i>Architectural Restoration Technician</i>
 
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
 <hr>
