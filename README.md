@@ -30,7 +30,7 @@
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><u><font color="blue"> Opensea Nft Market </font></u></a>
 - <b>Market #2:</b> <a href="https://web3.okx.com/ul/2DBRLUm" target="_blank"><u><font color="blue"> Okx Nft Market </font></u></a>
 - <b>Social Media:</b> <a href="https://discord.gg/YxKBv2ChV" target="_blank"><u><font color="blue"> Discord </font></u></a>
-
+<hr>
 <center><b><i>Owned by.opraks;</i></b> <i>44/ Istanbul - Türkiye</i>___<b><i>Profession:</i></b> <i>Architectural Restoration Technician</i></center>
 
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
