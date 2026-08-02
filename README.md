@@ -8,7 +8,7 @@
 - Designed in a <b>cartoon</b> style using <b>Pixel Art</b> techniques, each image is in <b>PNG</b> format with dimensions of <b>3072x3072</b> pixels. Each image is approximately between <b>150 KB and 800 KB</b> in size. Each feature is generated using <b>body, face, accessory, and background</b> colors.
 
 - Currently, based on the <b>Polygon</b> network, I've kept the value at a reasonable price range of <b>$1-1.5</b> per NFT, which I think is sufficient for a start. I'm working on different versions of <b>Yumugo</b> for the future. With the daily advancements in technology and related platforms, new ideas are inevitable for <b>NFT</b> creators. These changes are invaluable for the world of <b>Artificial Intelligence (AI)</b> and <b>Blockchain,</b> as well as for its participants and developers.
-
+<hr>
 - <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings. Lastly, I believe <b>Yumugo</b> will bring you happiness.
 <hr>
 - <h3><u><b>How Did It Start ?</b></u></h3>
