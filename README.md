@@ -1,4 +1,4 @@
-<h2>Welcome to Yumugo Nft's World</h2>
+<h1>Welcome to Yumugo Nft's World</h1>
 
 <img src="https://github.com/opraksNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
 
