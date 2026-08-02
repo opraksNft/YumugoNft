@@ -32,16 +32,4 @@
 - <b>by.opraks;</b> 44/ Istanbul - Türkiye
 - <b>Profession:</b> Architectural Restoration Technician
 
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js" defer></script>
-<!-- ShareThis BEGINS -->
-<div class="sharethis-share-buttons" data-type="sticky-share-buttons" data-alignment="left" data-labels="cta" data-show_total="false">
-<span data-network="facebook"></span>
-<span data-network="twitter"></span>
-<span data-network="pinterest"></span>
-<span data-network="email"></span>
-<span data-network="linkedin"></span>
-<span data-network="reddit"></span>
-<span data-network="telegram"></span>
-<span data-network="vk"></span>
-</div>
-<!-- ShareThis ENDS -->
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script>
