@@ -24,7 +24,7 @@
 <img src="https://github.com/opraksNft/YumugoNft/blob/main/Page%20Banner%202.png?raw=true"/>
 
 - <h3><u><b>Yumugo Contact</b></u></h3>
-- You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to <b>Yumugo's Email address</b> or my personal <b>Email address.</b> Thank you...
+- You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you...
 
 - <b>Epost:</b> <u><font color="blue"> saitberki100@gmail.com </font></u>
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><u><font color="blue"> Opensea Nft Market </font></u></a>
