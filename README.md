@@ -10,7 +10,7 @@
 <hr>
 <h1><left><img src="https://github.com/opraksNft/YumugoNft/blob/main/Contact%20Us.gif?raw=true" alt="Örnek" width="50" height="50"></left> <b>YUMUGO CONTACT</b></h1>
 <p>You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you.</p>
-<hr>
+
 - <b>Epost:</b> <u><font color="blue"> saitberkey@gmail.com </font></u>
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><u><font color="blue"> Opensea Nft Market </font></u></a>
 - <b>Social Media:</b> <a href="https://discord.gg/YxKBv2ChV" target="_blank"><u><font color="blue"> Discord </font></u></a>
