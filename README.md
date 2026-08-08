@@ -1,3 +1,8 @@
+<figure>
+  <img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo.gif?raw=true" alt="Manzara Resmi">
+  <figcaption><h1><b>WHAT IS YUMUGO NFTs ?</b></h1></figcaption>
+</figure>
+
 <left><img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo.gif?raw=true" alt="<h1><b>WHAT IS YUMUGO NFTs ?</b></h1>" width="50" height="50"></left>
 <p><b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of. The name <b>Yumugo</b> is formed by combining <b>"Yumu,"</b> which means egg in <b>Turkish,</b> and <b>"go,"</b> which means egg in <b>Japanese,</b> from <b>"Tamago."</b></p>
 
