@@ -5,10 +5,10 @@
 
 <p>Actually, <b>Yumugo</b> wasn't developed with any <b>Artificial Intelligence.</b> Since it was created based on <b>Pixel Art,</b> the priority for me was for it to gain a digital identity through a <b>Blockchain</b> infrastructure. The <b>10,000</b>-piece <b>Yumugo</b> collection was produced using various <b>ArtEngine</b> programs. The main reason I chose the <b>ERC-1155</b> convention for <b>Yumugo Collection</b> was because I wanted to offer more organized content. <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings, and I believe <b>Yumugo</b> will bring you happiness.</p>
 
-<h1><img src="https://github.com/opraksNft/YumugoNft/blob/main/About%20Us.gif?raw=true" alt="Örnek" width="50" height="50"><b>HOW DID IT START ?</b></h1>
+<h1><left><img src="https://github.com/opraksNft/YumugoNft/blob/main/About%20Us.gif?raw=true" alt="Örnek" width="50" height="50"></left> <b>HOW DID IT START ?</b></h1>
 <p>I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content. The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance. <b><u><i>by.opraks</i></u></b></p>
 
-<h1><img src="https://github.com/opraksNft/YumugoNft/blob/main/Contact%20Us.gif?raw=true" alt="Örnek" width="50" height="50"><b>YUMUGO CONTACT</b></h1>
+<h1><left><img src="https://github.com/opraksNft/YumugoNft/blob/main/Contact%20Us.gif?raw=true" alt="Örnek" width="50" height="50"></left> <b>YUMUGO CONTACT</b></h1>
 <p>You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you.</p>
 
 - <b>Epost:</b> <u><font color="blue"> saitberkey@gmail.com </font></u>
