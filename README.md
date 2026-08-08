@@ -1,5 +1,3 @@
-<span style="font-size: 90%;"></span>
-
 <h1><left><img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo.gif?raw=true" alt="Örnek" width="50" height="50"></left> <b>WHAT IS YUMUGO ?</b></h1>
 <img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo%20Banner%20%231.png?raw=true"/> 
 
