@@ -15,7 +15,6 @@
 
 - <b>Epost:</b> <u><font color="blue"> saitberkey@gmail.com </font></u>
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><u><font color="blue"> Opensea Nft Market </font></u></a>
-- <b>Market #2:</b> <a href="https://web3.okx.com/ul/2DBRLUm" target="_blank"><u><font color="blue"> Okx Nft Market </font></u></a>
 - <b>Social Media:</b> <a href="https://discord.gg/YxKBv2ChV" target="_blank"><u><font color="blue"> Discord </font></u></a>
 - <b>Social Media:</b> <a href="https://t.me/OpraksNFT" target="_blank"><u><font color="blue"> Telegram </font></u></a>
 <hr>
