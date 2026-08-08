@@ -1,7 +1,5 @@
 <h1>Welcome to Yumugo Nft's World</h1>
 
-<img src="https://github.com/opraksNft/YumugoNft/blob/main/Page%20Banner%201.png?raw=true"/>
-
 - <h2><u><b>What Is Yumugo Nft's ?</b></u></h2>
 - <b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of.
 
@@ -23,8 +21,6 @@
 
 - You can also follow <b>Yumugo</b> on the <b>X</b> platform to stay up-to-date. You can send emails to <b>Yumugo</b> on any topic you wish using their personal <b>email address.</b> <b><u><i>by.opraks</i></u></b>
 
-<img src="https://github.com/opraksNft/YumugoNft/blob/main/Page%20Banner%202.png?raw=true"/>
-
 - <h2><u><b>Yumugo Contact</b></u></h2>
 - You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you...
 
@@ -37,6 +33,5 @@
 <center><b><i>Owned by.opraks;</i></b> <i>44/ Istanbul - Türkiye</i>___<b><i>Profession:</i></b> <i>Architectural Restoration Technician</i></center>
 <hr>
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
-
 
 <center><a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=2x5dulkle1g698z3jtzw4xwr67c3n64c" border="0" title="website hit counter" alt="website hit counter"></a></center>
