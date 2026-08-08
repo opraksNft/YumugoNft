@@ -9,7 +9,7 @@
 
 - Currently, based on the <b>Polygon</b> network, I've kept the value at a reasonable price range of <b>$1-1.5</b> per NFT, which I think is sufficient for a start. I'm working on different versions of <b>Yumugo</b> for the future. With the daily advancements in technology and related platforms, new ideas are inevitable for <b>NFT</b> creators. These changes are invaluable for the world of <b>Artificial Intelligence (AI)</b> and <b>Blockchain,</b> as well as for its participants and developers.
 
-- Actually, <b>Yumugo</b> wasn't developed with any <b>Artificial Intelligence.</b> Since it was created based on <b>Pixel Art,</b> the priority for me was for it to gain a digital identity through a <b>Blockchain</b> infrastructure. The <b>10,000</b>-piece <b>Yumugo</b> collection was produced using various <b>ArtEngine</b> programs.
+- Actually, <b>Yumugo</b> wasn't developed with any <b>Artificial Intelligence.</b> Since it was created based on <b>Pixel Art,</b> the priority for me was for it to gain a digital identity through a <b>Blockchain</b> infrastructure. The <b>10,000</b>-piece <b>Yumugo</b> collection was produced using various <b>ArtEngine</b> programs. The main reason I chose the <b>ERC-1155</b> convention for <b>Yumugo Collection</b> was because I wanted to offer more organized content.
 
 - <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings. Lastly, I believe <b>Yumugo</b> will bring you happiness.
 
