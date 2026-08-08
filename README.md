@@ -1,5 +1,3 @@
-<h1>WELCOME TO YUMUGO NFTs WORLD</h1>
-
 <h2><b># What Is Yumugo Nft's ?</b></h2>
 <p><b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of. The name <b>Yumugo</b> is formed by combining <b>"Yumu,"</b> which means egg in <b>Turkish,</b> and <b>"go,"</b> which means egg in <b>Japanese,</b> from <b>"Tamago."</b></p>
 
