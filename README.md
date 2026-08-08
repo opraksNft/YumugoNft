@@ -1,4 +1,4 @@
-<h2><b># WHAT IS YUMUGO NFTs ?</b></h2>
+<h1><b># WHAT IS YUMUGO NFTs ?</b></h1>
 <p><b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of. The name <b>Yumugo</b> is formed by combining <b>"Yumu,"</b> which means egg in <b>Turkish,</b> and <b>"go,"</b> which means egg in <b>Japanese,</b> from <b>"Tamago."</b></p>
 
 <img src="dosya-adi.gif" alt="Açıklama Metni">
@@ -7,10 +7,10 @@
 
 <p>Actually, <b>Yumugo</b> wasn't developed with any <b>Artificial Intelligence.</b> Since it was created based on <b>Pixel Art,</b> the priority for me was for it to gain a digital identity through a <b>Blockchain</b> infrastructure. The <b>10,000</b>-piece <b>Yumugo</b> collection was produced using various <b>ArtEngine</b> programs. The main reason I chose the <b>ERC-1155</b> convention for <b>Yumugo Collection</b> was because I wanted to offer more organized content. <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings, and I believe <b>Yumugo</b> will bring you happiness.</p>
 
-<h2><b># HOW DID IT START ?</b></h2>
+<h1><b># HOW DID IT START ?</b></h1>
 <p>I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content. The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance. <b><u><i>by.opraks</i></u></b></p>
 
-<h2><b># YUMUGO CONTACT</b></h2>
+<h1><b># YUMUGO CONTACT</b></h1>
 <p>You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you.</p>
 
 - <b>Epost:</b> <u><font color="blue"> saitberkey@gmail.com </font></u>
