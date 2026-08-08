@@ -1,7 +1,7 @@
 <h1><b># WHAT IS YUMUGO NFTs ?</b></h1>
 <p><b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of. The name <b>Yumugo</b> is formed by combining <b>"Yumu,"</b> which means egg in <b>Turkish,</b> and <b>"go,"</b> which means egg in <b>Japanese,</b> from <b>"Tamago."</b></p>
 
-<img src="animasyon.gif" alt="Örnek" width="300" height="200">
+<img src="https://github.com/opraksNft/YumugoNft/blob/main/About%20Us.gif?raw=true" alt="Örnek" width="3100" height="100">
 
 <p>Designed in a <b>cartoon</b> style using <b>Pixel Art</b> techniques, each image is in <b>PNG</b> format with dimensions of <b>3072x3072</b> pixels. Each image is approximately between <b>150 KB and 800 KB</b> in size. Each feature is generated using <b>body, face, accessory, and background</b> colors. Currently, based on the <b>Polygon</b> network, I've kept the value at a reasonable price range of <b>$1-1.5</b> per NFT, which I think is sufficient for a start. I'm working on different versions of <b>Yumugo</b> for the future. With the daily advancements in technology and related platforms, new ideas are inevitable for <b>NFT</b> creators. These changes are invaluable for the world of <b>Artificial Intelligence (AI)</b> and <b>Blockchain,</b> as well as for its participants and developers.</p>
 
