@@ -10,8 +10,8 @@
 <h2><b># How Did It Start ?</b></h2>
 <p>I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content. The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance. <b><u><i>by.opraks</i></u></b></p>
 <br>
-<p><h2><b># Yumugo Contact</b></h2>
-- You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you.</p>
+<h2><b># Yumugo Contact</b></h2>
+<p>You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you.</p>
 <br>
 - <b>Epost:</b> <u><font color="blue"> saitberkey@gmail.com </font></u>
 - <b>Market #1:</b> <a href="https://opensea.io/collection/yumugo-nft" target="_blank"><u><font color="blue"> Opensea Nft Market </font></u></a>
