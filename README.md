@@ -1,4 +1,5 @@
 <h1><left><img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo.gif?raw=true" alt="Örnek" width="50" height="50"></left> <b>WHAT IS YUMUGO ?</b></h1>
+<img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo%20Banner%20%231.png?raw=true"/> 
 
 <p><b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of. The name <b>Yumugo</b> is formed by combining <b>"Yumu,"</b> which means egg in <b>Turkish,</b> and <b>"go,"</b> which means egg in <b>Japanese,</b> from <b>"Tamago."</b></p>
 
