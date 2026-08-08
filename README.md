@@ -1,5 +1,5 @@
 <figure>
-  <img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo.gif?raw=true" alt="Manzara Resmi">
+  <img src="https://github.com/opraksNft/YumugoNft/blob/main/Yumugo.gif?raw=true" alt="Yumugo"</h1>" width="50" height="50">
   <figcaption><h1><b>WHAT IS YUMUGO NFTs ?</b></h1></figcaption>
 </figure>
 
