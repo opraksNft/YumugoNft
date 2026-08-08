@@ -5,7 +5,7 @@
 
 <p>Actually, <b>Yumugo</b> wasn't developed with any <b>Artificial Intelligence.</b> Since it was created based on <b>Pixel Art,</b> the priority for me was for it to gain a digital identity through a <b>Blockchain</b> infrastructure. The <b>10,000</b>-piece <b>Yumugo</b> collection was produced using various <b>ArtEngine</b> programs. The main reason I chose the <b>ERC-1155</b> convention for <b>Yumugo Collection</b> was because I wanted to offer more organized content. <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings, and I believe <b>Yumugo</b> will bring you happiness.</p>
 
-<img src="https://github.com/opraksNft/YumugoNft/blob/main/About%20Us.gif?raw=true" alt="Örnek" width="100" height="100"><h1><b># HOW DID IT START ?</b></h1>
+<h1><img src="https://github.com/opraksNft/YumugoNft/blob/main/About%20Us.gif?raw=true" alt="Örnek" width="100" height="100"><b># HOW DID IT START ?</b></h1>
 <p>I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content. The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance. <b><u><i>by.opraks</i></u></b></p>
 
 <img src="https://github.com/opraksNft/YumugoNft/blob/main/Contact%20Us.gif?raw=true" alt="Örnek" width="100" height="100"> <h1><b># YUMUGO CONTACT</b></h1>
