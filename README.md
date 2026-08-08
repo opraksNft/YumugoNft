@@ -11,7 +11,7 @@
 
 - Actually, <b>Yumugo</b> wasn't developed with any <b>Artificial Intelligence.</b> Since it was created based on <b>Pixel Art,</b> the priority for me was for it to gain a digital identity through a <b>Blockchain</b> infrastructure. The <b>10,000</b>-piece <b>Yumugo</b> collection was produced using various <b>ArtEngine</b> programs. The main reason I chose the <b>ERC-1155</b> convention for <b>Yumugo Collection</b> was because I wanted to offer more organized content.
 
-- <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings. Lastly, And ı believe <b>Yumugo</b> will bring you happiness.
+- <b>Finally,</b> I believe every claim is valuable. I wish all developers good work and good earnings, and ı believe <b>Yumugo</b> will bring you happiness.
 
 - <h2><u><b>How Did It Start ?</b></u></h2>
 - I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content.
