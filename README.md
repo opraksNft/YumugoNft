@@ -1,7 +1,7 @@
 <h1>Welcome to Yumugo Nft's World</h1>
 
 - <h2><u><b>What Is Yumugo Nft's ?</b></u></h2>
-- <b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of.
+- <b>Yumugo is a friendly egg.</b> It's always a cheerful and sweet companion. The creation process focused on what an egg is capable of. The name <b>Yumugo</b> is formed by combining <b>"Yumu,"</b> which means egg in <b>Turkish,</b> and <b>"go,"</b> which means egg in <b>Japanese,</b> from <b>"Tamago."</b>
 
 - Designed in a <b>cartoon</b> style using <b>Pixel Art</b> techniques, each image is in <b>PNG</b> format with dimensions of <b>3072x3072</b> pixels. Each image is approximately between <b>150 KB and 800 KB</b> in size. Each feature is generated using <b>body, face, accessory, and background</b> colors.
 
