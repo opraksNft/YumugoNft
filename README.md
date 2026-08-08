@@ -14,12 +14,7 @@
 - <h2><u><b>How Did It Start ?</b></u></h2>
 - I can start with <b>2024,</b> a historic year for me. The inclusion of <b>Artificial Intelligence (AI)</b> and its products into the developing <b>Blockchain Technology</b> and its presentation of a new approach, is a topic I already follow, so it directly drew me to this content.
 
-- The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance.
-
-- <h2><u><b>Exchanges Listing Yumugo Nft's</b></u></h2>
-- <b>Yumugo NFT's</b> are currently listed on <b>Opensea</b> and <b>OKX</b> exchanges. You can purchase them from these websites. You can join our <b>Discord</b> communities and stay in touch with <b>Yumugo</b> as we maintain it.
-
-- You can also follow <b>Yumugo</b> on the <b>X</b> platform to stay up-to-date. You can send emails to <b>Yumugo</b> on any topic you wish using their personal <b>email address.</b> <b><u><i>by.opraks</i></u></b>
+- The <b>Yumugo</b> initiative developed spontaneously in this process. Although I have developed many different ideas and models before, I chose to start with <b>Yumugo.</b> I expect your positive contributions for this idea to succeed and achieve something. Thank you all in advance.<b><u><i>by.opraks</i></u></b>
 
 - <h2><u><b>Yumugo Contact</b></u></h2>
 - You can find <b>Yumugo Products</b> in various stores and on some <b>social media</b> pages by clicking the links below. For your requests, comments, and suggestions, you can write to my personal <b>Email address.</b> Thank you...
