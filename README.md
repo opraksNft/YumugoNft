@@ -17,7 +17,6 @@
 - <b>Social Media:</b> <a href="https://t.me/OpraksNFT" target="_blank"><u><font color="blue"> Telegram </font></u></a>
 - <b>Epost:</b> <u><font color="blue"> opraks.nft@gmail.com </font></u>
 - <b><i>Owned by.opraks;</i></b> <i>44/ Istanbul - Türkiye</i>___<b><i>Profession:</i></b> <i>Architectural Restoration Technician</i>
-
-<a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=2x5dulkle1g698z3jtzw4xwr67c3n64c" border="0" title="website hit counter" alt="website hit counter"></a>
+- <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=2x5dulkle1g698z3jtzw4xwr67c3n64c" border="0" title="website hit counter" alt="website hit counter"></a>
 
 <head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
